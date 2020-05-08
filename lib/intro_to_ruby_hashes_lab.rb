@@ -6,6 +6,7 @@ new_hash
 def my_hash
   another_hash = {name: "Zoe", location: "Chicago"}
 end
+my_hash
 
 def pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
