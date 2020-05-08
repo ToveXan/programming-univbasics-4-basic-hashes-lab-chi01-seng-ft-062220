@@ -4,7 +4,7 @@ end
 new_hash
 
 def my_hash
-  another_hash = 
+  another_hash = {name: "Zoe", location: "Chicago"}
 end
 
 def pioneer
