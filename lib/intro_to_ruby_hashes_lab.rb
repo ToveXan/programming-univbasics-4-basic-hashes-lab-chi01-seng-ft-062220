@@ -9,7 +9,8 @@ end
 my_hash
 
 def pioneer
-  p_hash = {:name => "Grace Hopper"}# return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+  p_hash = {:name => "Grace Hopper"}
+  # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
 end
 
 
