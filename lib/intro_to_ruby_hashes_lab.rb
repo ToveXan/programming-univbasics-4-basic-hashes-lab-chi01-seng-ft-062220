@@ -15,7 +15,7 @@ end
 
 
 def id_hash_generator(number)
-  int_hash = {:id, number}
+  int_hash = {:id => number}
 end
 int = 2 
 id_hash_generator(int)
